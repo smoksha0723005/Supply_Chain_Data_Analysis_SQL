@@ -1,0 +1,501 @@
+SupplierID,Name,Location,Contact
+1,Supplier 1,"Chicago, IL",(912) 555-3780
+2,Supplier 2,"Chicago, IL",(774) 555-2389
+3,Supplier 3,"Miami, FL",(390) 555-9445
+4,Supplier 4,"Dallas, TX",(779) 555-6491
+5,Supplier 5,"Dallas, TX",(195) 555-4848
+6,,"Dallas, TX",(788) 555-6085
+7,Supplier 7,Dallas- TX,(330) 555-4262
+4,Supplier 4,"Dallas, TX",(779) 555-6491
+9,Supplier 9,"Chicago, IL",(147) 555-5011
+10,Supplier 10,"San Diego, CA",(586) 555-2193
+11,Supplier 11,"Seattle, WA",(566) 555-7790
+12,Supplier 12,"Chicago, IL",(744) 555-4185
+13,Supplier 13,"Chicago, IL",(835) 555-7291
+14,Supplier 14,"Chicago, IL",(606) 555-7547
+15,Supplier 15,"Dallas, TX",(349) 555-3417
+16,Supplier 16,"Dallas, TX",(771) 555-1090
+17,Supplier 17,"San Diego, CA",(868) 555-2746
+18,Supplier 18,"San Diego, CA",(897) 555-7965
+19,Supplier 19,"Chicago, IL",(324) 555-3881
+20,Supplier 20,"San Diego, CA",(923) 555-9486
+21,Supplier 21,"Dallas, TX",(575) 555-1822
+22,Supplier 22,"San Diego, CA",(670) 555-5082
+23,Supplier 23,"Seattle, WA",(968) 555-2988
+24,Supplier 24,"Dallas, TX",(567) 555-3184
+25,Supplier 25,"Seattle, WA",(920) 555-8612
+26,Supplier 26,"San Diego, CA",(783) 555-9702
+27,Supplier 27,"Miami, FL",(672) 555-6198
+28,Supplier 28,"Chicago, IL",(873) 555-8251
+29,Supplier 29,"Dallas, TX",(727) 555-9270
+30,Supplier 30,"Seattle, WA",(536) 555-9976
+31,Supplier 31,"Miami, FL",(556) 555-3607
+32,Supplier 32,"Miami, FL",(861) 555-8777
+33,Supplier 33,"Dallas, TX",(560) 555-5246
+34,Supplier 34,"Dallas, TX",(869) 555-5050
+35,Supplier 35,"Miami, FL",(960) 555-5543
+36,Supplier 36,"Chicago, IL",(884) 555-9540
+37,Supplier 37,"Chicago, IL",(596) 555-4919
+38,Supplier 38,"Seattle, WA",(381) 555-8206
+39,Supplier 39,"Chicago, IL",(179) 555-5681
+40,Supplier 40,"Miami, FL",(340) 555-5451
+41,Supplier 41,"Miami, FL",(443) 555-6238
+42,Supplier 42,"San Diego, CA",(653) 555-2320
+43,Supplier 43,"Miami, FL",(241) 555-3471
+44,Supplier 44,"Chicago, IL",(336) 555-7275
+45,Supplier 45,"Seattle, WA",(810) 555-3503
+46,Supplier 46,"San Diego, CA",(823) 555-4505
+47,Supplier 47,"Chicago, IL",(165) 555-7797
+48,Supplier 48,"Seattle, WA",(517) 555-6421
+49,Supplier 49,"Chicago, IL",(655) 555-8633
+50,Supplier 50,"San Diego, CA",(525) 555-2020
+51,Supplier 51,"Miami, FL",(311) 555-7883
+52,Supplier 52,"San Diego, CA",(498) 555-1320
+53,Supplier 53,"Miami, FL",(977) 555-7232
+54,Supplier 54,"San Diego, CA",(588) 555-1096
+55,Supplier 55,"Dallas, TX",(460) 555-5892
+56,Supplier 56,"Chicago, IL",(871) 555-7389
+57,Supplier 57,"Chicago, IL",(973) 555-7865
+58,Supplier 58,"Dallas, TX",(651) 555-9947
+59,Supplier 59,"Miami, FL",(919) 555-4613
+60,Supplier 60,"Chicago, IL",(599) 555-4595
+61,Supplier 61,"Dallas, TX",(379) 555-8140
+62,Supplier 62,"Chicago, IL",(597) 555-1475
+63,Supplier 63,"Seattle, WA",(498) 555-6507
+64,Supplier 64,"Miami, FL",(784) 555-7624
+65,Supplier 65,"Seattle, WA",(841) 555-3704
+66,Supplier 66,"Miami, FL",(960) 555-8657
+67,Supplier 67,"Dallas, TX",(230) 555-9751
+68,Supplier 68,"Miami, FL",(127) 555-7455
+69,Supplier 69,"Miami, FL",(706) 555-1444
+70,Supplier 70,"Dallas, TX",(185) 555-8022
+71,Supplier 71,"Miami, FL",(238) 555-8564
+72,Supplier 72,"Chicago, IL",(286) 555-1823
+73,Supplier 73,"San Diego, CA",(366) 555-7211
+74,Supplier 74,"Dallas, TX",(435) 555-4467
+75,Supplier 75,"San Diego, CA",(565) 555-6355
+76,Supplier 76,"Dallas, TX",(445) 555-7211
+77,Supplier 77,"Dallas, TX",(384) 555-7906
+78,Supplier 78,"Seattle, WA",(358) 555-2341
+79,Supplier 79,"Seattle, WA",(581) 555-1317
+80,Supplier 80,"Miami, FL",(867) 555-9837
+81,Supplier 81,"San Diego, CA",(153) 555-6733
+82,Supplier 82,"Dallas, TX",(329) 555-2124
+83,Supplier 83,"Miami, FL",(899) 555-1659
+84,Supplier 84,"Chicago, IL",(872) 555-1508
+85,Supplier 85,"Dallas, TX",(353) 555-4266
+86,Supplier 86,"Chicago, IL",(959) 555-1333
+87,Supplier 87,"Miami, FL",(736) 555-3496
+88,Supplier 88,"Seattle, WA",(344) 555-3068
+89,Supplier 89,"Miami, FL",(584) 555-2874
+90,Supplier 90,"Chicago, IL",(677) 555-4571
+91,Supplier 91,"Dallas, TX",(576) 555-5198
+92,Supplier 92,"San Diego, CA",(885) 555-7043
+93,Supplier 93,"Miami, FL",(271) 555-2876
+94,Supplier 94,"Dallas, TX",(896) 555-3683
+95,Supplier 95,"Seattle, WA",(418) 555-2771
+96,Supplier 96,"Seattle, WA",(692) 555-1420
+97,Supplier 97,"Seattle, WA",(419) 555-7149
+98,Supplier 98,"Dallas, TX",(506) 555-4249
+99,Supplier 99,"Miami, FL",(177) 555-4978
+100,Supplier 100,"Dallas, TX",(204) 555-5941
+101,Supplier 101,"Dallas, TX",(970) 555-2983
+102,Supplier 102,"San Diego, CA",(915) 555-1672
+103,Supplier 103,"San Diego, CA",(455) 555-9728
+104,Supplier 104,"Miami, FL",(538) 555-7071
+105,Supplier 105,"San Diego, CA",(170) 555-9289
+106,Supplier 106,"Seattle, WA",(763) 555-6590
+107,Supplier 107,"San Diego, CA",(112) 555-7882
+108,Supplier 108,"Seattle, WA",(942) 555-9031
+109,Supplier 109,"Miami, FL",(208) 555-8102
+110,Supplier 110,"Dallas, TX",(470) 555-8532
+111,Supplier 111,"Dallas, TX",(824) 555-3506
+112,Supplier 112,"San Diego, CA",(545) 555-3885
+113,Supplier 113,"Seattle, WA",(851) 555-9548
+114,Supplier 114,"Chicago, IL",(766) 555-5425
+115,Supplier 115,"Chicago, IL",(730) 555-9817
+116,Supplier 116,"Chicago, IL",(893) 555-8921
+117,Supplier 117,"Dallas, TX",(576) 555-8136
+118,Supplier 118,"Dallas, TX",(945) 555-5397
+119,Supplier 119,"Seattle, WA",(430) 555-5022
+120,Supplier 120,"San Diego, CA",(950) 555-2419
+121,Supplier 121,"Chicago, IL",(385) 555-8385
+122,Supplier 122,"Seattle, WA",(349) 555-8613
+123,Supplier 123,"Seattle, WA",(683) 555-7209
+124,Supplier 124,"San Diego, CA",(444) 555-1470
+125,Supplier 125,"Seattle, WA",(606) 555-6325
+126,Supplier 126,"San Diego, CA",(286) 555-8988
+127,Supplier 127,"Miami, FL",(317) 555-6813
+128,Supplier 128,"San Diego, CA",(916) 555-5232
+129,Supplier 129,"Chicago, IL",(448) 555-5581
+130,Supplier 130,"Chicago, IL",(710) 555-5526
+131,Supplier 131,"San Diego, CA",(669) 555-1166
+132,Supplier 132,"Miami, FL",(629) 555-4130
+133,Supplier 133,"Miami, FL",(187) 555-4954
+134,Supplier 134,"Chicago, IL",(837) 555-7658
+135,Supplier 135,"Miami, FL",(600) 555-4937
+136,Supplier 136,"Seattle, WA",(807) 555-8800
+137,Supplier 137,"Dallas, TX",(761) 555-9041
+138,Supplier 138,"Seattle, WA",(558) 555-1282
+139,Supplier 139,"Chicago, IL",(195) 555-5820
+140,Supplier 140,"Miami, FL",(326) 555-7625
+141,Supplier 141,"San Diego, CA",(808) 555-4986
+142,Supplier 142,"Dallas, TX",(413) 555-7046
+143,Supplier 143,"San Diego, CA",(584) 555-9698
+144,Supplier 144,"Chicago, IL",(452) 555-7971
+145,Supplier 145,"Miami, FL",(863) 555-6419
+146,Supplier 146,"San Diego, CA",(460) 555-8434
+147,Supplier 147,"San Diego, CA",(377) 555-6023
+148,Supplier 148,"Dallas, TX",(357) 555-4777
+149,Supplier 149,"Dallas, TX",(223) 555-4155
+150,Supplier 150,"Miami, FL",(423) 555-2958
+151,Supplier 151,"Dallas, TX",(860) 555-9779
+152,Supplier 152,"San Diego, CA",(880) 555-4033
+153,Supplier 153,"San Diego, CA",(296) 555-4545
+154,Supplier 154,"Chicago, IL",(856) 555-8933
+155,Supplier 155,"San Diego, CA",(383) 555-9595
+156,Supplier 156,"Miami, FL",(711) 555-5636
+157,Supplier 157,"Seattle, WA",(202) 555-4180
+158,Supplier 158,"Chicago, IL",(403) 555-4727
+159,Supplier 159,"Chicago, IL",(469) 555-3939
+160,Supplier 160,"Miami, FL",(409) 555-1231
+161,Supplier 161,"Miami, FL",(825) 555-9751
+162,Supplier 162,"Dallas, TX",(229) 555-5494
+163,Supplier 163,"Chicago, IL",(146) 555-1893
+164,Supplier 164,"Dallas, TX",(666) 555-5786
+165,Supplier 165,"San Diego, CA",(814) 555-3068
+166,Supplier 166,"Chicago, IL",(753) 555-9042
+167,Supplier 167,"Chicago, IL",(205) 555-1200
+168,Supplier 168,"Seattle, WA",(687) 555-5658
+169,Supplier 169,"Chicago, IL",(580) 555-8843
+170,Supplier 170,"San Diego, CA",(551) 555-6582
+171,Supplier 171,"Dallas, TX",(288) 555-1841
+172,Supplier 172,"Dallas, TX",(358) 555-8827
+173,Supplier 173,"Seattle, WA",(216) 555-2070
+174,Supplier 174,"San Diego, CA",(510) 555-9056
+175,Supplier 175,"Dallas, TX",(175) 555-1878
+176,Supplier 176,"Miami, FL",(255) 555-3444
+177,Supplier 177,"San Diego, CA",(930) 555-5978
+178,Supplier 178,"San Diego, CA",(187) 555-5066
+179,Supplier 179,"Seattle, WA",(221) 555-7818
+180,Supplier 180,"Dallas, TX",(720) 555-4697
+181,Supplier 181,"San Diego, CA",(894) 555-9561
+182,Supplier 182,"Dallas, TX",(489) 555-8381
+183,Supplier 183,"Miami, FL",(553) 555-5871
+184,Supplier 184,"Seattle, WA",(980) 555-8025
+185,Supplier 185,"Miami, FL",(412) 555-1986
+186,Supplier 186,"Seattle, WA",(724) 555-2625
+187,Supplier 187,"San Diego, CA",(881) 555-4404
+188,Supplier 188,"Seattle, WA",(740) 555-4457
+189,Supplier 189,"Chicago, IL",(370) 555-2330
+190,Supplier 190,"Dallas, TX",(260) 555-4929
+191,Supplier 191,"Dallas, TX",(277) 555-2229
+192,Supplier 192,"Chicago, IL",(260) 555-1043
+193,Supplier 193,"Miami, FL",(518) 555-8381
+194,Supplier 194,"Chicago, IL",(805) 555-8699
+195,Supplier 195,"San Diego, CA",(398) 555-1534
+196,Supplier 196,"San Diego, CA",(337) 555-5720
+197,Supplier 197,"Dallas, TX",(823) 555-5632
+198,Supplier 198,"San Diego, CA",(819) 555-8438
+199,Supplier 199,"Dallas, TX",(172) 555-4824
+200,Supplier 200,"Chicago, IL",(370) 555-4241
+201,Supplier 201,"Chicago, IL",(535) 555-2880
+202,Supplier 202,"Chicago, IL",(657) 555-4683
+203,Supplier 203,"Dallas, TX",(763) 555-3441
+204,Supplier 204,"Chicago, IL",(372) 555-3330
+205,Supplier 205,"Chicago, IL",(173) 555-1977
+206,Supplier 206,"Miami, FL",(269) 555-6039
+207,Supplier 207,"Chicago, IL",(709) 555-5728
+208,Supplier 208,"San Diego, CA",(549) 555-3037
+209,Supplier 209,"Dallas, TX",(579) 555-5982
+210,Supplier 210,"Miami, FL",(816) 555-7594
+211,Supplier 211,"Seattle, WA",(378) 555-9199
+212,Supplier 212,"Dallas, TX",(652) 555-9090
+213,Supplier 213,"San Diego, CA",(548) 555-2317
+214,Supplier 214,"Dallas, TX",(712) 555-1653
+215,Supplier 215,"San Diego, CA",(542) 555-6280
+216,Supplier 216,"San Diego, CA",(718) 555-5102
+217,Supplier 217,"Seattle, WA",(126) 555-2496
+218,Supplier 218,"Dallas, TX",(334) 555-1339
+219,Supplier 219,"Seattle, WA",(883) 555-5415
+220,Supplier 220,"Seattle, WA",(690) 555-1659
+221,Supplier 221,"Dallas, TX",(881) 555-3870
+222,Supplier 222,"Chicago, IL",(581) 555-9502
+223,Supplier 223,"Chicago, IL",(767) 555-8245
+224,Supplier 224,"Seattle, WA",(384) 555-3973
+225,Supplier 225,"Miami, FL",(699) 555-8141
+226,Supplier 226,"Seattle, WA",(750) 555-9056
+227,Supplier 227,"Seattle, WA",(193) 555-8700
+228,Supplier 228,"Seattle, WA",(456) 555-7690
+229,Supplier 229,"Chicago, IL",(441) 555-6260
+230,Supplier 230,"Chicago, IL",(786) 555-2713
+231,Supplier 231,"Chicago, IL",(978) 555-3634
+232,Supplier 232,"Seattle, WA",(437) 555-7744
+233,Supplier 233,"Miami, FL",(810) 555-9117
+234,Supplier 234,"Chicago, IL",(395) 555-7561
+235,Supplier 235,"Dallas, TX",(933) 555-1601
+236,Supplier 236,"Dallas, TX",(565) 555-2442
+237,Supplier 237,"Dallas, TX",(422) 555-5135
+238,Supplier 238,"San Diego, CA",(431) 555-2899
+239,Supplier 239,"Seattle, WA",(891) 555-7622
+240,Supplier 240,"Dallas, TX",(985) 555-9431
+241,Supplier 241,"Seattle, WA",(944) 555-1018
+242,Supplier 242,"Dallas, TX",(773) 555-9889
+243,Supplier 243,"Miami, FL",(573) 555-7770
+244,Supplier 244,"Seattle, WA",(155) 555-4073
+245,Supplier 245,"Dallas, TX",(630) 555-6927
+246,Supplier 246,"Chicago, IL",(737) 555-9167
+247,Supplier 247,"Seattle, WA",(740) 555-8242
+248,Supplier 248,"San Diego, CA",(878) 555-1845
+249,Supplier 249,"Chicago, IL",(308) 555-5375
+250,Supplier 250,"Chicago, IL",(662) 555-3146
+251,Supplier 251,"San Diego, CA",(394) 555-8178
+252,Supplier 252,"Chicago, IL",(815) 555-8941
+253,Supplier 253,"Chicago, IL",(224) 555-1472
+254,Supplier 254,"Dallas, TX",(745) 555-4920
+255,Supplier 255,"Dallas, TX",(826) 555-3594
+256,Supplier 256,"Seattle, WA",(418) 555-1224
+257,Supplier 257,"Seattle, WA",(665) 555-7684
+258,Supplier 258,"Seattle, WA",(195) 555-4681
+259,Supplier 259,"Dallas, TX",(961) 555-2858
+260,Supplier 260,"Seattle, WA",(572) 555-2924
+261,Supplier 261,"Chicago, IL",(763) 555-3522
+262,Supplier 262,"Dallas, TX",(610) 555-5781
+263,Supplier 263,"Seattle, WA",(621) 555-5479
+264,Supplier 264,"Chicago, IL",(525) 555-8905
+265,Supplier 265,"Seattle, WA",(583) 555-4993
+266,Supplier 266,"Miami, FL",(567) 555-3369
+267,Supplier 267,"Seattle, WA",(492) 555-4122
+268,Supplier 268,"Miami, FL",(713) 555-9327
+269,Supplier 269,"Seattle, WA",(864) 555-3236
+270,Supplier 270,"San Diego, CA",(984) 555-2143
+271,Supplier 271,"Seattle, WA",(382) 555-7798
+272,Supplier 272,"Dallas, TX",(448) 555-9318
+273,Supplier 273,"Dallas, TX",(373) 555-1042
+274,Supplier 274,"Miami, FL",(389) 555-5891
+275,Supplier 275,"Dallas, TX",(957) 555-9022
+276,Supplier 276,"Chicago, IL",(986) 555-3434
+277,Supplier 277,"San Diego, CA",(557) 555-9824
+278,Supplier 278,"San Diego, CA",(595) 555-6654
+279,Supplier 279,"Chicago, IL",(440) 555-9903
+280,Supplier 280,"Miami, FL",(486) 555-8460
+281,Supplier 281,"Chicago, IL",(429) 555-4090
+282,Supplier 282,"Chicago, IL",(814) 555-4912
+283,Supplier 283,"San Diego, CA",(685) 555-7274
+284,Supplier 284,"Seattle, WA",(339) 555-7730
+285,Supplier 285,"San Diego, CA",(144) 555-6213
+286,Supplier 286,"San Diego, CA",(862) 555-8749
+287,Supplier 287,"Dallas, TX",(822) 555-7246
+288,Supplier 288,"Chicago, IL",(495) 555-3492
+289,Supplier 289,"San Diego, CA",(607) 555-1606
+290,Supplier 290,"Chicago, IL",(229) 555-9229
+291,Supplier 291,"Dallas, TX",(704) 555-6439
+292,Supplier 292,"Chicago, IL",(990) 555-2644
+293,Supplier 293,"San Diego, CA",(995) 555-8213
+294,Supplier 294,"Chicago, IL",(202) 555-9617
+295,Supplier 295,"Dallas, TX",(567) 555-1251
+296,Supplier 296,"Seattle, WA",(839) 555-3361
+297,Supplier 297,"Chicago, IL",(519) 555-3529
+298,Supplier 298,"San Diego, CA",(176) 555-8692
+299,Supplier 299,"Dallas, TX",(900) 555-5342
+300,Supplier 300,"San Diego, CA",(446) 555-7512
+301,Supplier 301,"San Diego, CA",(765) 555-2315
+302,Supplier 302,"Chicago, IL",(972) 555-6383
+303,Supplier 303,"San Diego, CA",(972) 555-9742
+304,Supplier 304,"Chicago, IL",(489) 555-6188
+305,Supplier 305,"Seattle, WA",(741) 555-8994
+306,Supplier 306,"San Diego, CA",(993) 555-9864
+307,Supplier 307,"San Diego, CA",(136) 555-2121
+308,Supplier 308,"San Diego, CA",(340) 555-5708
+309,Supplier 309,"Miami, FL",(332) 555-2480
+310,Supplier 310,"Miami, FL",(544) 555-2612
+311,Supplier 311,"Dallas, TX",(878) 555-2646
+312,Supplier 312,"Miami, FL",(554) 555-3725
+313,Supplier 313,"Dallas, TX",(810) 555-5906
+314,Supplier 314,"Miami, FL",(129) 555-1753
+315,Supplier 315,"Seattle, WA",(432) 555-1919
+316,Supplier 316,"Dallas, TX",(400) 555-6873
+317,Supplier 317,"Miami, FL",(483) 555-8056
+318,Supplier 318,"Seattle, WA",(249) 555-5000
+319,Supplier 319,"Miami, FL",(643) 555-7751
+320,Supplier 320,"Chicago, IL",(679) 555-3950
+321,Supplier 321,"Chicago, IL",(274) 555-3868
+322,Supplier 322,"Seattle, WA",(180) 555-7267
+323,Supplier 323,"San Diego, CA",(734) 555-4945
+324,Supplier 324,"San Diego, CA",(609) 555-3344
+325,Supplier 325,"Chicago, IL",(337) 555-8555
+326,Supplier 326,"Chicago, IL",(753) 555-5161
+327,Supplier 327,"San Diego, CA",(570) 555-5183
+328,Supplier 328,"Dallas, TX",(782) 555-1153
+329,Supplier 329,"San Diego, CA",(923) 555-8622
+330,Supplier 330,"Miami, FL",(394) 555-9955
+331,Supplier 331,"Dallas, TX",(261) 555-2210
+332,Supplier 332,"Miami, FL",(552) 555-6661
+333,Supplier 333,"Chicago, IL",(701) 555-5901
+334,Supplier 334,"Dallas, TX",(754) 555-7951
+335,Supplier 335,"Miami, FL",(806) 555-5097
+336,Supplier 336,"Miami, FL",(567) 555-5949
+337,Supplier 337,"Dallas, TX",(303) 555-7302
+338,Supplier 338,"Seattle, WA",(973) 555-8916
+339,Supplier 339,"San Diego, CA",(209) 555-4886
+340,Supplier 340,"Miami, FL",(490) 555-6881
+341,Supplier 341,"San Diego, CA",(688) 555-5847
+342,Supplier 342,"San Diego, CA",(816) 555-5837
+343,Supplier 343,"Chicago, IL",(122) 555-7484
+344,Supplier 344,"San Diego, CA",(381) 555-1132
+345,Supplier 345,"Miami, FL",(679) 555-1803
+346,Supplier 346,"Chicago, IL",(720) 555-9138
+347,Supplier 347,"Dallas, TX",(952) 555-5689
+348,Supplier 348,"Miami, FL",(894) 555-4770
+349,Supplier 349,"Chicago, IL",(721) 555-6772
+350,Supplier 350,"Chicago, IL",(324) 555-4115
+351,Supplier 351,"San Diego, CA",(735) 555-5106
+352,Supplier 352,"Dallas, TX",(794) 555-3240
+353,Supplier 353,"Miami, FL",(743) 555-2591
+354,Supplier 354,"Miami, FL",(742) 555-1645
+355,Supplier 355,"San Diego, CA",(416) 555-8222
+356,Supplier 356,"Dallas, TX",(134) 555-6977
+357,Supplier 357,"Miami, FL",(849) 555-3153
+358,Supplier 358,"Dallas, TX",(192) 555-5835
+359,Supplier 359,"Miami, FL",(434) 555-7807
+360,Supplier 360,"San Diego, CA",(279) 555-4289
+361,Supplier 361,"Seattle, WA",(235) 555-9837
+362,Supplier 362,"Miami, FL",(997) 555-6994
+363,Supplier 363,"Chicago, IL",(643) 555-9221
+364,Supplier 364,"Chicago, IL",(379) 555-3695
+365,Supplier 365,"Seattle, WA",(363) 555-8894
+366,Supplier 366,"Miami, FL",(925) 555-5835
+367,Supplier 367,"Chicago, IL",(864) 555-6549
+368,Supplier 368,"Chicago, IL",(923) 555-2886
+369,Supplier 369,"Miami, FL",(579) 555-2233
+370,Supplier 370,"Dallas, TX",(244) 555-4696
+371,Supplier 371,"Miami, FL",(980) 555-7511
+372,Supplier 372,"Dallas, TX",(966) 555-6992
+373,Supplier 373,"Seattle, WA",(192) 555-7464
+374,Supplier 374,"San Diego, CA",(114) 555-5332
+375,Supplier 375,"Seattle, WA",(649) 555-3024
+376,Supplier 376,"San Diego, CA",(565) 555-7038
+377,Supplier 377,"Chicago, IL",(788) 555-5295
+378,Supplier 378,"Chicago, IL",(698) 555-7242
+379,Supplier 379,"Chicago, IL",(942) 555-7086
+380,Supplier 380,"Dallas, TX",(210) 555-4830
+381,Supplier 381,"San Diego, CA",(582) 555-1410
+382,Supplier 382,"Chicago, IL",(734) 555-6374
+383,Supplier 383,"Miami, FL",(724) 555-4626
+384,Supplier 384,"San Diego, CA",(763) 555-2035
+385,Supplier 385,"San Diego, CA",(750) 555-8606
+386,Supplier 386,"Dallas, TX",(817) 555-5951
+387,Supplier 387,"Seattle, WA",(764) 555-7689
+388,Supplier 388,"Dallas, TX",(219) 555-3290
+389,Supplier 389,"Chicago, IL",(146) 555-1609
+390,Supplier 390,"Miami, FL",(411) 555-9071
+391,Supplier 391,"Miami, FL",(218) 555-2592
+392,Supplier 392,"Chicago, IL",(340) 555-9807
+393,Supplier 393,"Miami, FL",(238) 555-7367
+394,Supplier 394,"Dallas, TX",(564) 555-7078
+395,Supplier 395,"Dallas, TX",(786) 555-9850
+396,Supplier 396,"Chicago, IL",(529) 555-3531
+397,Supplier 397,"Miami, FL",(524) 555-2622
+398,Supplier 398,"San Diego, CA",(953) 555-9017
+399,Supplier 399,"Seattle, WA",(730) 555-7686
+400,Supplier 400,"San Diego, CA",(386) 555-1536
+401,Supplier 401,"Dallas, TX",(806) 555-7070
+402,Supplier 402,"Dallas, TX",(322) 555-8264
+403,Supplier 403,"Dallas, TX",(555) 555-4868
+404,Supplier 404,"Dallas, TX",(975) 555-6942
+405,Supplier 405,"Seattle, WA",(201) 555-7018
+406,Supplier 406,"Chicago, IL",(657) 555-6876
+407,Supplier 407,"Dallas, TX",(162) 555-7523
+408,Supplier 408,"Miami, FL",(382) 555-4109
+409,Supplier 409,"Seattle, WA",(225) 555-8450
+410,Supplier 410,"Dallas, TX",(193) 555-4475
+411,Supplier 411,"Miami, FL",(757) 555-1349
+412,Supplier 412,"Dallas, TX",(151) 555-6464
+413,Supplier 413,"Chicago, IL",(349) 555-3063
+414,Supplier 414,"Seattle, WA",(905) 555-4362
+415,Supplier 415,"Chicago, IL",(170) 555-4394
+416,Supplier 416,"Seattle, WA",(700) 555-4538
+417,Supplier 417,"Dallas, TX",(932) 555-4817
+418,Supplier 418,"Dallas, TX",(436) 555-3417
+419,Supplier 419,"Seattle, WA",(907) 555-1046
+420,Supplier 420,"Miami, FL",(383) 555-3370
+421,Supplier 421,"Miami, FL",(233) 555-9850
+422,Supplier 422,"Dallas, TX",(356) 555-3858
+423,Supplier 423,"Dallas, TX",(212) 555-1422
+424,Supplier 424,"Chicago, IL",(234) 555-1243
+425,Supplier 425,"Dallas, TX",(466) 555-4898
+426,Supplier 426,"Seattle, WA",(702) 555-6304
+427,Supplier 427,"Miami, FL",(116) 555-3854
+428,Supplier 428,"Miami, FL",(371) 555-1858
+429,Supplier 429,"Chicago, IL",(229) 555-7897
+430,Supplier 430,"Miami, FL",(638) 555-2862
+431,Supplier 431,"Miami, FL",(863) 555-2041
+432,Supplier 432,"San Diego, CA",(587) 555-8344
+433,Supplier 433,"Seattle, WA",(896) 555-6931
+434,Supplier 434,"San Diego, CA",(625) 555-2786
+435,Supplier 435,"Miami, FL",(562) 555-9254
+436,Supplier 436,"Chicago, IL",(326) 555-1710
+437,Supplier 437,"Chicago, IL",(844) 555-9543
+438,Supplier 438,"Miami, FL",(408) 555-8504
+439,Supplier 439,"Dallas, TX",(758) 555-1510
+440,Supplier 440,"San Diego, CA",(162) 555-8847
+441,Supplier 441,"Miami, FL",(967) 555-7580
+442,Supplier 442,"Chicago, IL",(536) 555-2768
+443,Supplier 443,"Chicago, IL",(602) 555-8267
+444,Supplier 444,"San Diego, CA",(175) 555-2323
+445,Supplier 445,"Seattle, WA",(429) 555-3430
+446,Supplier 446,"Miami, FL",(167) 555-3067
+447,Supplier 447,"Miami, FL",(381) 555-9984
+448,Supplier 448,"Seattle, WA",(829) 555-6327
+449,Supplier 449,"San Diego, CA",(490) 555-9692
+450,Supplier 450,"San Diego, CA",(401) 555-8433
+451,Supplier 451,"Chicago, IL",(617) 555-8048
+452,Supplier 452,"Seattle, WA",(201) 555-2874
+453,Supplier 453,"San Diego, CA",(973) 555-4522
+454,Supplier 454,"Dallas, TX",(540) 555-8398
+455,Supplier 455,"Miami, FL",(333) 555-7779
+456,Supplier 456,"Chicago, IL",(447) 555-8430
+457,Supplier 457,"Seattle, WA",(508) 555-7815
+458,Supplier 458,"Chicago, IL",(847) 555-2557
+459,Supplier 459,"San Diego, CA",(420) 555-7992
+460,Supplier 460,"San Diego, CA",(420) 555-5176
+461,Supplier 461,"Dallas, TX",(483) 555-3500
+462,Supplier 462,"Miami, FL",(803) 555-8770
+463,Supplier 463,"Seattle, WA",(168) 555-2494
+464,Supplier 464,"Chicago, IL",(951) 555-2398
+465,Supplier 465,"Miami, FL",(195) 555-8075
+466,Supplier 466,"San Diego, CA",(198) 555-7105
+467,Supplier 467,"Miami, FL",(931) 555-3131
+468,Supplier 468,"Chicago, IL",(669) 555-1982
+469,Supplier 469,"Miami, FL",(700) 555-6400
+470,Supplier 470,"San Diego, CA",(786) 555-3002
+471,Supplier 471,"Miami, FL",(520) 555-6793
+472,Supplier 472,"Seattle, WA",(994) 555-7929
+473,Supplier 473,"Miami, FL",(988) 555-1842
+474,Supplier 474,"Seattle, WA",(394) 555-6119
+475,Supplier 475,"Miami, FL",(460) 555-2697
+476,Supplier 476,"San Diego, CA",(691) 555-9313
+477,Supplier 477,"Dallas, TX",(317) 555-3535
+478,Supplier 478,"Dallas, TX",(772) 555-8900
+479,Supplier 479,"Seattle, WA",(329) 555-2773
+480,Supplier 480,"Seattle, WA",(458) 555-7022
+481,Supplier 481,"Dallas, TX",(217) 555-5564
+482,Supplier 482,"San Diego, CA",(687) 555-4705
+483,Supplier 483,"San Diego, CA",(926) 555-8030
+484,Supplier 484,"Miami, FL",(965) 555-1430
+485,Supplier 485,"Seattle, WA",(723) 555-5381
+486,Supplier 486,"San Diego, CA",(129) 555-3955
+487,Supplier 487,"Chicago, IL",(379) 555-6062
+488,Supplier 488,"Miami, FL",(447) 555-6751
+489,Supplier 489,"Miami, FL",(106) 555-3972
+490,Supplier 490,"Dallas, TX",(990) 555-3347
+491,Supplier 491,"Seattle, WA",(679) 555-7566
+492,Supplier 492,"San Diego, CA",(171) 555-3324
+493,Supplier 493,"San Diego, CA",(858) 555-1502
+494,Supplier 494,"Miami, FL",(193) 555-9691
+495,Supplier 495,"Seattle, WA",(320) 555-7163
+496,Supplier 496,"Seattle, WA",(529) 555-8432
+497,Supplier 497,"Seattle, WA",(449) 555-3578
+498,Supplier 498,"Dallas, TX",(478) 555-6105
+499,Supplier 499,"San Diego, CA",(838) 555-6314
+500,Supplier 500,"Seattle, WA",(895) 555-2391
